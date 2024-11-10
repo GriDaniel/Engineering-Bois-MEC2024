@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "yt-clone-70bb9"
+  },
+  "targets": {},
+  "etags": {
+    "yt-clone-70bb9": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}
